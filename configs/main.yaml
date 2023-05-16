@@ -1,8 +1,8 @@
 defaults:
   - _self_
   - model: parseq
-  - charset: 94_full
-  - dataset: real
+  - charset: 36_plate-number
+  - dataset: plate_number
 
 model:
   _convert_: all
